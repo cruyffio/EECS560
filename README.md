@@ -1,7 +1,7 @@
-# EECS560 MATLAB Cheat Sheet
+# EECS560/AERO550/ME564/CEE571 MATLAB Cheat Sheet
 Winter 2021
 
-Important MATLAB commands for this course include but not limited to the following. Recall that in MATLAB, if you know a command but do not understand how to use it, you type `help` followed by the command name at the MATLAB prompt, i.e.,
+This is a more comprehensive list of MATLAB commands for this course. Recall that in MATLAB, if you know a command but do not understand how to use it, you type `help` followed by the command name at the MATLAB prompt, i.e.,
 ```
 >> help ss
 ```
