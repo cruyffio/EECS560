@@ -14,6 +14,7 @@ This is a more comprehensive list of MATLAB commands for this course. Recall tha
 - `tfzpk`
 - `ode45`
 - `lsim`
+- `minreal`
 - `place`
 - `lqr`
 - `lqg`
